@@ -17,15 +17,18 @@ Interactive React Dashboard Visualizes portfolio stats, risk tiers, and real-tim
 Frontend: React, TypeScript, Tailwind CSS, Vite
 Data Visualization: Recharts, Lucide React
 Analytics: K-Means clustering, anomaly detection (z-score)
+
 📊 Sample Data
 
 The project runs on 500+ synthetic user profiles with credit history, payment records, and income stability.
 You can extend it with real datasets for production use.
+
 📌 Future Improvements
 
 Integration with live financial APIs
 Enhanced fraud detection using ML models
 Role-based authentication for secure dashboards
+
 🤝 Contributing
 
 Pull requests are welcome! For major changes, pl
